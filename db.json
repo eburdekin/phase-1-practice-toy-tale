@@ -1,10 +1,11 @@
 {
   "toys": [
     {
+      "0": 27,
       "id": 1,
       "name": "Woody",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 6
+      "likes": 40
     },
     {
       "id": 2,
@@ -51,7 +52,7 @@
     {
       "name": "Furby",
       "image": "https://d1gn9jfso7kpav.cloudfront.net/wp-content/uploads/2020/02/furby-photo3-full-hasbro.jpg",
-      "likes": 0,
+      "likes": 15,
       "id": 9
     }
   ]
